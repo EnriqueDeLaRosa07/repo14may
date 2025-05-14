@@ -5,3 +5,6 @@ El primer paso para comenzar con el aloamiento en Github es crear una cuenta per
 
 Paso 2: Crear un repositorio remoto en Github
 Después de registrarse, crear un home (un repositorio) en Github para el repositorio Git que quieres compartir.
+
+Paso 3: Conectar el directorio Git del proyecto con el repositorio remoto.
+Una vez que hayas creado un repositorio remoto para tu proyecto, tienes que vincular el directorio del proyecto.
