@@ -1,0 +1,3 @@
+Para alojar ( o campartir) un repositorio Git en GitHub, siga los siguientes pasos:
+Paso 1: Registra una cuenta en Github
+El primer paso para comenzar con el aloamiento en çççgithub es crear una cuenta personal. Visite la página de registro oficial para registrarse.
